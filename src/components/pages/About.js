@@ -11,6 +11,7 @@ export default class About extends Component {
         <p className="text-secondary">1.0.0</p>
         <p>React Version: {React.version}</p>
         <p>Created by: Kelvin F (61920)</p>
+        <p>Thank you Codey for your bitcoins!</p>
       </div>
     );
   }
